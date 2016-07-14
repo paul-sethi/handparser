@@ -1,0 +1,9 @@
+D:\Code\HandParser\HandParser\bin\Debug\HandParser.exe.config
+D:\Code\HandParser\HandParser\obj\Debug\HandParser.csprojResolveAssemblyReference.cache
+D:\Code\HandParser\HandParser\bin\Debug\HandParser.exe
+D:\Code\HandParser\HandParser\bin\Debug\HandParser.pdb
+D:\Code\HandParser\HandParser\obj\Debug\HandParser.exe
+D:\Code\HandParser\HandParser\obj\Debug\HandParser.pdb
+D:\master\handparser\HandParser\HandParser\bin\Debug\HandParser.exe.config
+D:\master\handparser\HandParser\HandParser\obj\Debug\HandParser.exe
+D:\master\handparser\HandParser\HandParser\obj\Debug\HandParser.pdb
